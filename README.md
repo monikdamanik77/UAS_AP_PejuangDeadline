@@ -8,7 +8,7 @@ Nama Anggota:
 5. (Jihan Firyal Husn Siregar) - (251401138)
 
 
-Deskripsi Program
+Deskripsi Program:
 
 --->> Project 1 – Parkir Mall Prienal
 Program ini dibuat untuk membantu pengelolaan parkir mobil di Mall Prienal. Fitur yang tersedia meliputi pencatatan kendaraan masuk dan keluar, perhitungan biaya parkir berdasarkan lama parkir, penyimpanan data petugas parkir, menampilkan kendaraan yang sedang parkir, serta pemberitahuan ketika kapasitas parkir sudah penuh. Program dibuat menggunakan konsep Class/Struct, Pointer, Array atau Vector, dan Function
