@@ -29,3 +29,4 @@ Screenshot Hasil:
 https://drive.google.com/drive/folders/1Gr2zxi2K-8NOE9TgKc0bzYvWzWWi8Xkg?usp=drive_link
 
 Link Youtube:
+https://youtu.be/HUrHr-DZcPE?si=GD8IDcworx4Jrusi
